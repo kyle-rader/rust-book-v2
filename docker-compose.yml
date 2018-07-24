@@ -1,0 +1,11 @@
+version: '3'
+services:
+  rust:
+    build:
+      context: ./
+      args:
+        APP_DIR: "/rust-book-v2"
+    image: rusting
+    volumes:
+      - ./:/rust-book-v2
+    command: "bash"
