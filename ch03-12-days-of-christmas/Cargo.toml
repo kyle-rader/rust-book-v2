@@ -1,0 +1,6 @@
+[package]
+name = "ch03-12-days-of-christmas"
+version = "0.1.0"
+authors = ["kyrader <kyrader@microsofot.com>"]
+
+[dependencies]
