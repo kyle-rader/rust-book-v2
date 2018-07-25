@@ -1,0 +1,6 @@
+[package]
+name = "ch03-fibonacci"
+version = "0.1.0"
+authors = ["kyrader <kyrader@microsoft.com>"]
+
+[dependencies]
