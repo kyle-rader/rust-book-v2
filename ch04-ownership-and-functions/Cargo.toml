@@ -1,0 +1,6 @@
+[package]
+name = "ch04-ownership-and-functions"
+version = "0.1.0"
+authors = ["Kyle W. Rader <kyle@kylerader.ninja>"]
+
+[dependencies]
