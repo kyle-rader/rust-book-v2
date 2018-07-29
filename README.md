@@ -28,4 +28,4 @@ This repo contains my implementations of coding exercises while following [The R
     docker-compose run rust
     ```
 
-    This will start a bash shell in the repo root in a container that has Rust installed already. Now you can the above steps as if you had rust on your dev machine!
+    This will start a bash shell in the repo root in a container that has Rust installed already. Now you can follow the above steps as if you had rust on your dev machine!
